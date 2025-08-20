@@ -2,10 +2,7 @@
 
 By Jeremy Gagliardi │ As of 2025-08-19 │ No license; free to copy and use.<br>
 _The following are partial snippets from JSON._<br>
-Find what you need and copy these into the **Name**, **Description**, and **JQL** fields, respectively, to create your filter.<br>
-To update the **Name** and **Description**, you need to click on the _Filter details_ button and then _Edit name and description_.<br>
-To update the JQL code, you need to switch from _Basic_ to _JQL_, enter the JQL code below, and press **Enter** to execute it.<br>
-Don't forget to click **Save filter** when you're all done.<br>
+Find what you need and copy these into the **Name**, **Description**, and **JQL** fields, respectively, to create your filter. To update the **Name** and **Description**, you need to click on the _Filter details_ button and then _Edit name and description_. To update the JQL code, you need to switch from _Basic_ to _JQL_, enter the JQL code below, and press **Enter** to execute it. Don't forget to click **Save filter** when you're all done.<br>
 <br>
 
 | FIELD | VALUE |
