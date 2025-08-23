@@ -1,7 +1,7 @@
 # My Collection of Jira Cloud Filters
 
 By Jeremy Gagliardi │ As of 2025-08-22 | No license; these are free to copy and use.<br>
-_This was generated using script_ `jira-get-filters.sh`.<br>
+_This was generated using script_ [jira-get-filters.sh](https://github.com/jjg8/Shell-Scripts/tree/main/jira-get-filters).<br>
 
 Find what you need and copy these into the **Name**, **Description**, and **JQL** fields, respectively, to create your filter. To update the **Name** and **Description**, you need to click on the _Filter details_ button and then _Edit name and description_. To update the JQL code, you need to switch from _Basic_ to _JQL_, enter the JQL code from below, and press **Enter** to execute it. Don't forget to click **Save filter** when you're all done.<br>
 
