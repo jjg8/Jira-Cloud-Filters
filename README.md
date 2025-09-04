@@ -110,7 +110,7 @@ Now, the detailed tables...<br>
 |---|---|
 | **Name** | `⏳👉My tickets awaiting closure` |
 | **Description** | `All tickets where I'm the current assignee with a status of Resolved, not Closed.  This is necessary because the time-based ticket closure automation broke a while ago, and it just leaves tickets in the Resolved status until someone notices.` |
-| **JQL** | `assignee = currentUser() AND status = Resolved ORDER BY updated DESC` |
+| **JQL** | `assignee = currentUser() AND status in (Resolved, Canceled) ORDER BY updated DESC` |
 <br>
 <br>
 
